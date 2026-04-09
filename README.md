@@ -58,3 +58,53 @@ python -m pip install -r requirements.txt
 ```
 
 ### 7. Open & Run the project, ensure that you selected the "Python (venv)" kernel before running the cells.
+
+## Requirements
+
+### Python
+This project requires **Python 3.10 or higher**.  
+Check your Python version:
+
+```bash
+python3 --version   # Linux/macOS
+python --version    # Windows
+```
+
+### pip
+
+Make sure pip is installed and up-to-date:
+
+```bash
+python -m ensurepip --upgrade   # Windows
+python3 -m ensurepip --upgrade  # Linux/macOS
+
+python -m pip install --upgrade pip
+```
+
+### Python Packages
+
+Install the required Python packages listed in requirements.txt:
+```bash
+pip install -r requirements.txt
+```
+
+Key Dependencies Used in This Project
+- numpy
+- pandas
+- scipy
+- matplotlib
+- seaborn
+- scikit-learn
+- yellowbrick
+- umap-learn
+- shap
+
+```markdown
+> **Note:** It's recommended to use a virtual environment to avoid conflicts with global packages.
+
+## Model Pipeline
+
+![ML Pipeline](images/pipeline.png)
+
+## Code Repository / DOI
+
