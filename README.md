@@ -108,3 +108,4 @@ Key Dependencies Used in This Project
 ![ML Pipeline](images/pipeline.png)
 
 ## Code Repository / DOI
+[![DOI](https://zenodo.org/badge/1205508809.svg)](https://doi.org/10.5281/zenodo.19480065)
