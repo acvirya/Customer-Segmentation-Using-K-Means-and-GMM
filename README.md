@@ -100,11 +100,11 @@ Key Dependencies Used in This Project
 - shap
 
 ```markdown
-> **Note:** It's recommended to use a virtual environment to avoid conflicts with global packages.
+> Note: It's recommended to use a virtual environment to avoid conflicts with global packages.
+```
 
 ## Model Pipeline
 
 ![ML Pipeline](images/pipeline.png)
 
 ## Code Repository / DOI
-
